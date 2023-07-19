@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're FacioSoft</h1>
-<h3 align="center">and we create open-source technology.</h3>
+<h3 align="center">and we create open-source software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faciosoft&label=Profile%20views&color=0e75b6&style=flat" alt="faciosoft" /> </p>
 
