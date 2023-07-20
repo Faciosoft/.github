@@ -11,5 +11,5 @@
 
 - 📫 How to reach us **maciejdebowskisoftware@gmail.com**
 
-[Our Twitter](https://twitter.com/faciosoft)
+[Our Twitter](https://twitter.com/faciosoft) | 
 [Donate](https://www.buymeacoffee.com/faciosoft)
