@@ -10,3 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/orgs/Faciosoft/repositories](https://github.com/orgs/Faciosoft/repositories)
 
 - 📫 How to reach us **maciejdebowskisoftware@gmail.com**
+
+[Our Twitter](https://twitter.com/faciosoft)
+[Donate](https://www.buymeacoffee.com/faciosoft)
